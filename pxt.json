@@ -1,0 +1,6 @@
+{
+  "name": "dht11",
+  "description": "DHT11 温湿度传感器积木",
+  "files": ["main.ts"],
+  "dependencies": {}
+}
