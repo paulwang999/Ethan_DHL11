@@ -1,5 +1,5 @@
 {
-  "name": "dht11",
+  "name": "ethan_dhl11",
   "description": "DHT11 温湿度传感器积木 / DHT11 temperature and humidity sensor blocks",
   "version": "0.0.1",
   "supportedTargets": ["microbit"],
