@@ -1,8 +1,11 @@
 {
-  "name": "ethan_dhl11",
-  "description": "DHT11 温湿度传感器积木 / DHT11 temperature and humidity sensor blocks",
+  "name": "dht11",
   "version": "0.0.1",
+  "description": "DHT11 温湿度传感器积木 / DHT11 temperature and humidity sensor blocks",
   "supportedTargets": ["microbit"],
-  "files": ["main.ts"],
-  "dependencies": {}
+  "files": [
+    "main.ts"
+  ],
+  "dependencies": {},
+  "public": true
 }
